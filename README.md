@@ -3,7 +3,7 @@
 Welcome to my enhanced portfolio website! This showcases my work and skills. It's built using HTML, CSS, JavaScript, and PHP, with the addition of a database to manage dynamic content.
 
 ## Demo
-You can see a live demo of the website using the URL : https://hasini-weeraddana.github.io/Hasini-Weeraddana-portfolio_webpage/.
+You can see a live demo of the website using the URL : http://localhost/.
 
 ## Features
 
