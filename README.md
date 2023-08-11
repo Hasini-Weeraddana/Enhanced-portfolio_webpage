@@ -1,4 +1,4 @@
-#Enhanced Portfolio Website with Database Integration
+# Enhanced Portfolio Website with Database Integration
 
 Welcome to my enhanced portfolio website! This showcases my work and skills. It's built using HTML, CSS, JavaScript, and PHP, with the addition of a database to manage dynamic content.
 
